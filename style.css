@@ -75,15 +75,8 @@ body{
 .container>div{
   padding-bottom: .7rem;
 }
-/* .footer{
-  position: absolute;
-  bottom: .4rem;
-  right: 4px;
-} */
 
 
 
-
-
-.attribution { font-size: 11px; text-align: center; }
+.attribution { font-size: 11px; text-align: center; color: var(--GrayishBlue);}
 .attribution a { color: hsl(228, 45%, 44%); }
