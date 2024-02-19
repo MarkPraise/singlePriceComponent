@@ -31,8 +31,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MarkPraise/singlePriceComponent)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Single Price-Component](https://github.com/MarkPraise/singlePriceComponent)
+- Live Site URL: [Single-Price](https://markpraise.github.io/singlePriceComponent/)
 
 ## My process
 
